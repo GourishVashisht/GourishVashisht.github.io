@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Gourish Vashisht",
+        "username": "gourish.vashisht",
+        "password": "gourish@123"
+    },
+    {
+        "id": 2,
+        "name": "Rajesh Kumar",
+        "username": "rajesh.kumar",
+        "password": "rajesh@123"
+    },
+    {
+        "id": 3,
+        "name": "Amolika Vashisht",
+        "username": "amolika.vashisht",
+        "password": "amolika@123"
+    },
+    {
+        "id": 4,
+        "name": "Admin User",
+        "username": "a",
+        "password": "a"
+    }
+]
